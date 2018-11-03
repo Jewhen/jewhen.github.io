@@ -1,0 +1,38 @@
+a{
+	color:red;
+	font-size:40px;
+}
+#moys {
+	 color:#008855;
+	 font-size:50px;
+ }	
+.message{
+	color:#lime;
+	background-color:#E4E4E4;
+	border:1px solid #323232 ; border:1px dashed #323232 ; 
+	font-size:20px;
+	margin:10px; margin-bottom:50px; margin-top:10px;margin-left:50px;
+	padding:15px;
+}
+.success{
+	background-color:#19A185;
+	color:#ffffff;	
+}
+.fail{
+	background-color:#D65144;
+	color:ffffff;}
+.info{
+	background-color:#4B8BBF5;
+color:#ffffff;	
+}
+.warning{
+	background-color:#FFCE43;
+color:#ffffff;}
+
+.message:hover{
+	border: 20px solid #323232;
+}
+div:hover{
+	border: 10px solid #256852;
+}
+
